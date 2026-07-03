@@ -386,7 +386,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback:
 - **Email**: ovaniagayle3@gmail.com
 - **Project Repository**: [[GitHub Link]](https://github.com/ovania03/CSCI370-World-Cup-2026-YouTube-Comments-Intelligence-Engine.git)
-- **Dashboard Demo**: [Live Demo Link]
+- **Dashboard Demo**: [[Live Demo Link]](https://drive.google.com/drive/u/1/folders/1nXQkpXpMnyAVh-MViFo0qRahgUWW_igf)
 
 ---
 
