@@ -192,7 +192,7 @@ No action required! Simply replace `dashboard.py` with the new version.
 ### Version 1.0.0
 - Initial baseline established
 - Pipeline processing: 6,681 comments in ~7.5 minutes
-- Dashboard render: ~2 seconds
+
 
 ---
 
