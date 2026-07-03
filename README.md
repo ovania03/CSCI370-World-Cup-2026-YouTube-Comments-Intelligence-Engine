@@ -365,8 +365,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **CSCI370 Project Team**
-- Muhammad Moiz Naveed
-- [Add other team members]
+- Ovania Fernandes
+- Mohammad Zino
+  
 
 ---
 
